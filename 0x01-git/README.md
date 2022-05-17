@@ -1,2 +1,2 @@
-ALX, is such a greta school!
+ALX, is such a great school!
 !
