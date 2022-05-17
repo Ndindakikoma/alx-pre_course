@@ -1,2 +1,1 @@
-ALX, is such a great school!
-!
+ALX, is such a great school.
